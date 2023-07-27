@@ -1,0 +1,9 @@
+.input-group {
+    width: 100%;
+    margin: 0 0 15px;
+}
+
+tr.bg-success {
+    background-color: #dff0d8;
+    color: #000;
+}
